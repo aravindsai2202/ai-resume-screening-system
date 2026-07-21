@@ -1,0 +1,33 @@
+Job Title: Data Scientist
+
+Company: TechNova Analytics
+
+Job Summary:
+We are looking for a Data Scientist to join our analytics team. The ideal
+candidate will design and deploy machine learning models, work with large
+datasets, and communicate insights to stakeholders.
+
+Required Skills:
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning (Regression, Classification, Clustering)
+- SQL and data querying
+- Data visualization (Matplotlib, Seaborn, or Power BI)
+- Statistics and probability fundamentals
+
+Preferred Skills:
+- Deep Learning (TensorFlow or PyTorch)
+- Experience with LLMs / GenAI tools (LangChain, OpenAI API)
+- Cloud platforms (AWS, GCP, or Azure)
+- Model deployment (Flask, FastAPI, Docker)
+
+Experience Required: 1-3 years in a Data Science or ML role
+(Freshers with strong project portfolios also considered)
+
+Education: Bachelor's degree in Computer Science, Statistics,
+Mathematics, or a related field
+
+Responsibilities:
+- Build and evaluate predictive models
+- Clean and preprocess large datasets
+- Present findings to non-technical stakeholders
+- Collaborate with engineering to deploy models to production

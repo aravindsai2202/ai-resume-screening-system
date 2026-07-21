@@ -1,0 +1,28 @@
+Name: Priya Sharma
+
+Summary:
+Data Scientist with 2.5 years of experience building and deploying machine
+learning models in production environments.
+
+Skills:
+Python, Pandas, NumPy, Scikit-learn, SQL, TensorFlow, PyTorch,
+Matplotlib, Seaborn, Power BI, AWS (SageMaker, S3, Lambda),
+Docker, Flask, LangChain, OpenAI API
+
+Experience:
+Data Scientist, FinEdge Analytics (2023 - Present)
+- Built a credit risk classification model improving default prediction
+  accuracy by 18%
+- Deployed models to production using Flask and Docker on AWS
+- Designed an LLM-powered chatbot using LangChain and OpenAI API for
+  internal analyst queries
+
+ML Intern, DataWorks Pvt Ltd (2022 - 2023)
+- Built regression models to forecast retail demand
+- Automated ETL pipelines reducing manual reporting time by 40%
+
+Education:
+B.Tech in Computer Science, VNR University (2023)
+
+Certifications:
+AWS Certified Machine Learning - Specialty

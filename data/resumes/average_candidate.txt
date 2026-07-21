@@ -1,0 +1,21 @@
+Name: Rohit Verma
+
+Summary:
+Aspiring Data Scientist with academic and internship experience in
+Python-based data analysis.
+
+Skills:
+Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, basic Excel
+
+Experience:
+Data Analyst Intern, RetailMetrics Co (2024)
+- Cleaned and analyzed sales datasets using Pandas
+- Built simple classification models using Scikit-learn for churn
+  prediction (accuracy not benchmarked against baseline)
+- Created dashboards in Excel for weekly reporting
+
+Academic Project:
+- House price prediction using Linear Regression (Kaggle dataset)
+
+Education:
+B.Sc in Statistics, Osmania University (2024)

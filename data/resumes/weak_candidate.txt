@@ -1,0 +1,18 @@
+Name: Anil Kumar
+
+Summary:
+Recent graduate looking to start a career in the tech industry.
+
+Skills:
+Basic Python, MS Excel, MS Word, PowerPoint
+
+Experience:
+Front Desk Assistant, City Hotel (2023 - 2024)
+- Managed guest check-in and check-out
+- Handled billing and customer queries
+
+Academic Project:
+- Built a static personal portfolio website using HTML and CSS
+
+Education:
+B.A. in Business Administration, Local College (2024)
